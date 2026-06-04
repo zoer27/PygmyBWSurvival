@@ -1,0 +1,1 @@
+This includes the data and code for the analysis in Rand, ZR, Branch TA, Punt AE, and Maeda H (In Review). Estimates of annual survival for pygmy blue whales using historical data. *Marine Mammal Science*
